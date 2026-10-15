@@ -1,0 +1,1 @@
+git log --oneline #muestra los commits históricos realizados.
