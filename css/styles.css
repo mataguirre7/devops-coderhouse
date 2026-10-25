@@ -1,4 +1,4 @@
-/* .body {
+.body {
   background-color: #f0f0f0;
   width: 100vw;
   height: 100vh;
@@ -26,11 +26,4 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-} */
-
-body {
-  font-family: Arial, sans-serif;
-  max-width: 700px;
-  margin: 4rem auto;
-  padding: 0 1rem;
 }
