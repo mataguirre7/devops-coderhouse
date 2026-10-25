@@ -16,7 +16,7 @@ jobs:
       - name: Validar HTML y placeholders
         run: | 
           test -f index.html
-          if ! grep -qi '<!doctyoe html>' index.html; then
+          if ! grep -qi '<!doctype html>' index.html; then
             echo "Falta el doctype HTML"
             exit 1
           fi
